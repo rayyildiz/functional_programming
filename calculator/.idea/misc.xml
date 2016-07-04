@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EmacsSettings">
+    <option name="emacsPath" value="/usr/bin/emacs" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1465300146000" />
+        <entry key="$PROJECT_DIR$/../../../exbers/dealr/app" value="1463514245000" />
+        <entry key="$PROJECT_DIR$/../../../exbers/dealr/app/dealr-web" value="1461787254000" />
+        <entry key="$PROJECT_DIR$/../../../exbers/dealr/dealr-app" value="1463913709000" />
+        <entry key="$PROJECT_DIR$/../../../exbers/dealr/dealr-play" value="1464966291000" />
+        <entry key="$PROJECT_DIR$/../../../github/slick-repository-pattern" value="1464848562000" />
+        <entry key="$PROJECT_DIR$/../../../hackhaton/mkk/mkk-seo-link" value="1464238871000" />
+        <entry key="$PROJECT_DIR$/../../../hackhaton/spark/matrix-multiply" value="1463156094000" />
+        <entry key="$PROJECT_DIR$/../../../playground/akka-http-sample" value="1460350802000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ThriftCompiler">
+    <compilers />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
